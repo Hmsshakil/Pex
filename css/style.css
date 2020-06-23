@@ -1,0 +1,282 @@
+ @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+/*NAV BAR*/
+.navbar{
+    background-color:#161324;
+    opacity:80%;
+}
+.nav-link{
+    color: white!important;
+font-family: cursive}
+.navform{
+    position: relative;
+}
+.navform a {
+   position: absolute;
+    right: 10%;
+    
+}
+/*NAV FINISH*/
+/*COVER START*/
+#cover{
+    background-image: url('../images/cover%20bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 680px;
+}
+.cover-text{
+padding-top: 200px;    
+}
+.cover-text h1{
+    font-weight: 500;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing:3px;
+    font-size: 40px;
+}
+.cover-btn a{
+    background-color:#E7526B!important;
+    font-weight: 600;
+    border-radius: 30px!important
+}
+.cover-btn h6{
+margin-left: 7px;
+    color: white;
+    
+}
+.cover-arrow{
+  animation-duration: 3s;
+  animation-delay:1s;
+  animation-iteration-count:infinite;
+    text-align: center;
+    padding-top: 150px;
+}
+.cover-arrow a{
+    color:white;
+    border:1px solid white;
+    border-radius:50px;
+    padding: 10px 12px;
+}
+/*COVER FINISH*/
+/*COMMENT START*/
+#comment{
+/*   background-color: #2F3033;*/
+    background-image: url('../images/bg.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    height:700px;
+    padding:60px;
+    margin: 0;
+    padding: 0;
+    
+}
+.comment-sec{
+  color: white;
+padding-top: 40px!important;  
+}
+.comment-sec h3{
+    width: 80%
+}
+.comment-sec p{
+    font-size: 13px;
+    width: 80%;
+    font-family: sans-serif;
+}
+/*COMMENT FINISH*/
+/*WICKED START*/
+/*WICKED FINISH*/
+.wicked-text{text-align: center;
+width:50%;padding-top: 130px}
+.wicked-text h1{
+    font-weight: 100!important;
+    font-family: sans-serif;
+}
+.wicked-text p{
+    width:90%;
+    font-size: 13px;
+    font-family: sans-serif;
+}
+.wicked-text button{
+    border-radius: 30px!important
+}
+/*WICKED FINISH*/
+/*WRITE START*/
+.write-text{
+    width: 70%;
+    padding-top:80px;
+}
+.write-text h2{
+    font-family: sans-serif;
+    font-weight: 100;
+    
+}
+.write-text h6{
+    font-size:17px;
+    font-family: sans-serif
+}
+.write-text p{
+    font-size: 14px;
+    font-family: sans-serif
+}
+/*WRITE FINISH*/
+/*EXPERINCE START*/
+#experience{
+    background-image: url('../images/img%20bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.ex-text{
+    width:50%;
+    text-align: center;
+    color: white;padding: 80px 0px
+}
+.ex-text h2{
+    font-family: sans-serif;
+    font-weight: 100;
+}
+.ex-text p{
+    font-size: 14px;
+    font-family: sans-serif;
+}
+.ex-text span{
+    font-size:13px;
+}
+.ex-text button{
+    background-color:#591B69;
+    border-radius:30px!important;
+    
+}
+.ex-text button a{
+    color: white;
+    font-weight: 600;
+}
+/*EXPERINCE FINISH*/
+/*PHOTO SEC START*/
+#photography{
+    background-image: url('../images/fbg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height:500px
+}
+.photo-text{
+    color: white;
+    padding-top: 180px;
+    width:50%;
+    margin-left: 0;
+    
+}
+.photo-text button{ 
+border-radius:30px;
+border: 1px solid white;
+}
+.photo-text button a{
+    color: white;
+    font-weight: 600;
+}
+.photo-text h1{
+    font-family: sans-serif;
+    font-weight: 100;
+    letter-spacing: 1px;
+}
+/*PHOTO FINISH*/
+/*HAND SECTION START*/
+.hand-text{
+    width:70%;
+    padding-top: 120px
+    
+}
+.hand-text h3{
+font-family: sans-serif;
+    
+}
+.hand-text h6{
+    font-size: 16px;
+    font-family: sans-serif;
+}
+.hand-text p{
+    font-size: 14px;
+    font-family: sans-serif;
+}
+/*HAND FINISH*/
+/*GET STAR*/
+#getin{
+    background-color:#C35266;
+}
+.get-text{
+    width:60%;
+    padding:80px 0px;
+    color: white;
+}
+.get-text h4{
+    font-family: sans-serif;
+    
+}
+.get-text p{
+    font-size: 17px;
+}
+.get-text span{
+    text-decoration: underline;
+}
+/*GET FINISH*/
+
+
+/*Go to op Button*/
+#topbutton {
+  display: inline-block;
+  background-color: #FF9800;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border-radius: 4px;
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  transition: background-color .3s, 
+    opacity .5s, visibility .5s;
+  opacity: 0;
+  visibility: hidden;
+  z-index: 1000;
+    border-radius:30px;
+}
+#topbutton i{
+    font-size:50px;
+    color: white;
+
+}
+#topbutton::after {
+  font-weight: normal;
+  font-style: normal;
+  font-size: 2em;
+  line-height: 50px;
+  color: #fff;
+}
+#topbutton:hover {
+  cursor: pointer;
+  background-color: #333;
+}
+#topbutton:active {
+  background-color: #555;
+}
+#topbutton.show {
+  opacity: 1;
+  visibility: visible;
+}
+/*Button finish*/
+/*Copy right*/
+#Copyright{
+    background-color: #2E3B4E;
+color: white;
+padding: 10px 0px;
+text-align: center}
+#Copyright h5{
+   
+   font-family: 'Righteous', cursive;
+    
+}

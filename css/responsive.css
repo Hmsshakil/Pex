@@ -1,0 +1,490 @@
+@media (max-width: 399.98px) {
+    .navbar{
+        background-color:#161324;
+        opacity:100%;
+    }
+       #cover{
+           height:600px;
+       } 
+    .cover-text{
+        padding-top:220px;
+    }
+    .navbar-nav{
+        padding-bottom:70px;}
+    .cover-text h1{
+        font-size:21px;
+    }
+    .cover-arrow{
+        padding-top: 120px;
+    }
+    #comment{
+        height:1200px;
+        padding-top: 10px;
+    }
+    .comment-sec{
+        color: white;
+      padding-top: 10px!important;  
+      
+      }
+      .comment-sec p{
+          width:100%;
+      }
+      .comment-sec h3{
+          width: 100%;
+          font-size:20px;
+      }
+      .wicked-text{
+        width:80%;padding-top: 250px}
+        .wicked-text p{
+            font-size:14px;
+        }
+        .wicked-text h1{
+            font-size:30px;
+        }
+        .write-text{
+            width: 100%;
+            padding-top:20px;
+            text-align: center;
+        }
+        .write-text h2{
+            font-size: 20px;;
+        }
+        .write-text h6{
+            font-size:14px;
+        }
+        .write-img img{
+            width:100%;
+        }
+        .ex-text{
+            width:80%;
+            text-align: center;
+            color: white;padding: 80px 0px
+        }
+        .get-text{
+            width:100%;
+           
+        }
+        .hand-text h3{
+            font-size:20px;
+        }
+        .hand-text h6{
+            font-size:14px;
+        }
+        .hand-text{
+            width:100%;
+            padding-top: 30px;
+            text-align: center;
+            
+        }
+        .hand-img img{
+            width:100%;
+        }
+        .photo-text{
+            color: white;
+            padding-top: 130px;
+            width:70%;
+            margin-left: 0;
+            
+        }
+        .photo-text h1{
+            font-size:25px}
+            .get-text{
+                width: 80%;
+            }
+ }
+
+
+
+
+@media (min-width: 400px) and (max-width: 479.99px){
+    .navbar{
+        background-color:#161324;
+        opacity:90%;
+    }
+       #cover{
+           height:500px;
+       } 
+    .cover-text{
+        padding-top:150px;
+    }
+    .navbar-nav{
+        padding-bottom:70px;}
+    .cover-text h1{
+        font-size:25px;
+    }
+    .cover-arrow{
+        padding-top: 60px;
+    }
+    #comment{
+        height:1000px;
+        padding-top: 10px;
+    }
+    .comment-sec{
+        color: white;
+      padding-top: 0px!important;  
+      
+      }
+      .comment-sec p{
+          width:100%;
+      }
+      .comment-sec h3{
+          width: 100%;
+          font-size:20px;
+      }
+      .wicked-text{
+        width:80%;padding-top: 150px}
+        .wicked-text p{
+            font-size:14px;
+        }
+        .wicked-text h1{
+            font-size:30px;
+        }
+        .write-text{
+            width: 100%;
+            padding-top:20px;
+            text-align: center;
+        }
+        .write-text h2{
+            font-size: 20px;;
+        }
+        .write-text h6{
+            font-size:14px;
+        }
+        .write-img img{
+            width:100%;
+        }
+        .ex-text{
+            width:80%;
+            text-align: center;
+            color: white;padding: 80px 0px
+        }
+        .hand-text h3{
+            font-size:20px;
+        }
+        .hand-text h6{
+            font-size:14px;
+        }
+        .hand-text{
+            width:100%;
+            padding-top: 30px;
+            text-align: center;
+            
+        }
+        .hand-img img{
+            width:100%;
+        }
+        .photo-text{
+            color: white;
+            padding-top: 130px;
+            width:70%;
+            margin-left: 0;
+            
+        }
+        .photo-text h1{
+            font-size:25px}
+            .get-text{
+                width: 80%;
+            }
+    
+    }
+    
+    
+    @media (min-width: 576px) and (max-width: 767.98px) {
+        .cover-text{
+            padding-top:250px;
+        }
+        .cover-text h1{
+            font-size:35px;
+        }
+        .comment-sec{
+            color: white;
+          padding-top: 20px!important;  
+          
+          }
+          .comment-sec p{
+              width:100%;
+          }
+          .comment-sec h3{
+              width: 100%;
+              font-size:20px;
+          }
+          .wicked-text{
+            width:60%;padding-top: 80px}
+            .wicked-text h1{
+                font-size:21px;
+            }
+            .write-text{
+                width: 100%;
+                padding-top:30px;
+                text-align: center;
+            }
+            .write-text h2{
+                font-size: 20px;;
+            }
+            .write-text h6{
+                font-size:14px;
+            }
+            .write-img img{
+                width:100%;
+            }
+            .ex-text{
+                width:80%;
+                text-align: center;
+                color: white;padding: 80px 0px
+            }
+            .hand-text h3{
+                font-size:20px;
+            }
+            .hand-text h6{
+                font-size:14px;
+            }
+            .hand-text{
+                width:100%;
+                padding-top: 30px;
+                text-align: center;
+                
+            }
+            .hand-img img{
+                width:100%;
+            }
+            .photo-text{
+                color: white;
+                padding-top: 130px;
+                width:70%;
+                margin-left: 0;
+                
+            }
+            .photo-text h1{
+                font-size:25px}
+                .get-text{
+                    width: 80%;
+                }
+}
+
+
+
+
+
+@media (min-width: 480px) and (max-width: 575.98px){
+    
+    .cover-text{
+    padding-top:250px;
+}
+.navbar-nav{
+    padding-bottom:70px;}
+.cover-text h1{
+    font-size:30px;
+}
+#comment{
+    height:950px;
+    padding-top: 10px;
+}
+.comment-sec{
+    color: white;
+  padding-top: 0px!important;  
+  
+  }
+  .comment-sec p{
+      width:100%;
+  }
+  .comment-sec h3{
+      width: 100%;
+      font-size:20px;
+  }
+  .wicked-text{
+    width:60%;padding-top: 180px}
+    .wicked-text h1{
+        font-size:20px;
+    }
+    .write-text{
+        width: 100%;
+        padding-top:20px;
+        text-align: center;
+    }
+    .write-text h2{
+        font-size: 20px;;
+    }
+    .write-text h6{
+        font-size:14px;
+    }
+    .write-img img{
+        width:100%;
+    }
+    .ex-text{
+        width:80%;
+        text-align: center;
+        color: white;padding: 80px 0px
+    }
+    .hand-text h3{
+        font-size:20px;
+    }
+    .hand-text h6{
+        font-size:14px;
+    }
+    .hand-text{
+        width:100%;
+        padding-top: 30px;
+        text-align: center;
+        
+    }
+    .hand-img img{
+        width:100%;
+    }
+    .photo-text{
+        color: white;
+        padding-top: 130px;
+        width:70%;
+        margin-left: 0;
+        
+    }
+    .photo-text h1{
+        font-size:25px}
+        .get-text{
+            width: 80%;
+        }
+
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .cover-text{
+        padding-top:250px;
+    }
+    .cover-text h1{
+        font-size:35px;
+    }
+    .comment-sec{
+        color: white;
+      padding-top: 20px!important;  
+      
+      }
+      .comment-sec p{
+          width:100%;
+      }
+      .comment-sec h3{
+          width: 100%;
+          font-size:20px;
+      }
+      .wicked-text{
+        width:60%;padding-top: 80px}
+        .wicked-text h1{
+            font-size:21px;
+        }
+        .write-text{
+            width: 100%;
+            padding-top:30px;
+            text-align: center;
+        }
+        .write-text h2{
+            font-size: 20px;;
+        }
+        .write-text h6{
+            font-size:14px;
+        }
+        .write-img img{
+            width:100%;
+        }
+        .ex-text{
+            width:80%;
+            text-align: center;
+            color: white;padding: 80px 0px
+        }
+        .hand-text h3{
+            font-size:20px;
+        }
+        .hand-text h6{
+            font-size:14px;
+        }
+        .hand-text{
+            width:100%;
+            padding-top: 30px;
+            text-align: center;
+            
+        }
+        .hand-img img{
+            width:100%;
+        }
+        .photo-text{
+            color: white;
+            padding-top: 130px;
+            width:70%;
+            margin-left: 0;
+            
+        }
+        .photo-text h1{
+            font-size:25px}
+            .get-text{
+                width: 80%;
+            }
+
+}
+
+
+
+
+
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .comment-sec{
+        color: white;
+      padding-top: 20px!important;  
+      }
+      .comment-sec h3{
+          width: 80%;
+          font-size:20px;
+      }
+      .wicked-text{
+        width:60%;padding-top: 80px}
+        .wicked-text h1{
+            font-size:25px;
+        }
+        .write-text{
+            width: 100%;
+            padding-top:0px;
+        }
+        .write-text h2{
+            font-size: 20px;;
+        }
+        .write-text h6{
+            font-size:14px;
+        }
+        .hand-text{
+            width:100%;
+            padding-top: 0px
+            
+        }
+        .photo-text{
+            color: white;
+            padding-top: 100px;
+            width:70%;
+            margin-left: 0;
+            
+        }
+        .photo-text h1{
+            font-size:30px}
+ }
+
+
+
+
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    .wicked-text{padding-top: 90px}
+    .wicked-text h1{
+        font-size:30px;
+    }
+    .write-text{
+        width: 70%;
+        padding-top:10px;
+    }
+    .hand-text{
+        width:70%;
+        padding-top: 20px
+        
+    }
+
+}
+
+
+@media (min-width: 1200px) { }
